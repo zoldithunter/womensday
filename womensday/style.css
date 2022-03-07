@@ -249,11 +249,19 @@ a:focus {
 }
 
 .pos-9 {
-	grid-area: 40 / 26 / 51 / 32;
+	grid-area: 40 / 24 / 51 / 30;
 }
 
 .pos-10 {
- 	grid-area: 37 / 39 / 48 / 47;
+ 	grid-area: 38 / 41 / 49 / 49;
+}
+
+.pos-11 {
+ 	grid-area: 15 / 20 / 32 / 27;
+}
+
+.pos-12 {
+ 	grid-area: 35 / 32 / 48 / 38;
 }
 
 .content__title {
